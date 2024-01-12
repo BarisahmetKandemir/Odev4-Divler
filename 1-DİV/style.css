@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    margin:15px;
+}
+
+div.a {
+    height: 500px;
+    width:100px;
+    border:3px solid black;
+}
+
+div.b {
+    height: 500px;
+    width:100px;
+    border:3px solid black;
+}
+
+div.c {
+    height: 500px;
+    width:100px;
+    border:3px solid black;
+}
+
+div.d {
+    height: 500px;
+    width:100px;
+    border:3px solid black;
+}
